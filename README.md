@@ -176,17 +176,13 @@ Recommendations
 ## 📊 Dashboard Preview
 
 ### Customer Churn Dashboard
-
 ## Dashboard Preview
 
-### Executive Summary
-![Executive Summary](Exceutive%20Summary.png)
+![Executive Summary](Dashboard IMG/Exceutive%20Summary.png)
 
-### Revenue Risks & Drivers
-![Revenue Risks & Drivers](Revenue%20Risks%20%26%20Drivers.png)
+![Revenue Risks & Drivers](Dashboard IMG/Revenue%20Risks%20%26%20Drivers.png)
 
-### Churn Profiles
-![Churn Profiles](Churn%20Profiles.png)
+![Churn Profiles](Dashboard IMG/Churn%20Profiles.png)
 ```
 
 ---
