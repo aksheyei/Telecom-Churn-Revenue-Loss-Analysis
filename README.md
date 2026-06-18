@@ -180,11 +180,11 @@ Recommendations
 Add your Power BI screenshots below:
 
 ```markdown
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Summary](Exceutive Summary.png)
 
-![Revenue Analysis](images/revenue_analysis.png)
+![Revenue Analysis](Revenue Risks & Drivers.png)
 
-![Churn Drivers](images/churn_drivers.png)
+![Churn Drivers](Churn Profiles.png)
 ```
 
 ---
