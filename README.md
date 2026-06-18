@@ -177,14 +177,16 @@ Recommendations
 
 ### Customer Churn Dashboard
 
-Add your Power BI screenshots below:
+## Dashboard Preview
 
-```markdown
-![Dashboard Summary](Exceutive Summary.png)
+### Executive Summary
+![Executive Summary](Exceutive%20Summary.png)
 
-![Revenue Analysis](Revenue Risks & Drivers.png)
+### Revenue Risks & Drivers
+![Revenue Risks & Drivers](Revenue%20Risks%20%26%20Drivers.png)
 
-![Churn Drivers](Churn Profiles.png)
+### Churn Profiles
+![Churn Profiles](Churn%20Profiles.png)
 ```
 
 ---
