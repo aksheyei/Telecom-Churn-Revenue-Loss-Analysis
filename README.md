@@ -178,11 +178,11 @@ Recommendations
 ### Customer Churn Dashboard
 ## Dashboard Preview
 
-![Executive Summary](Dashboard IMG/Exceutive%20Summary.png)
+![Executive Summary](Dashboard_IMG/Exceutive%20Summary.png)
 
-![Revenue Risks & Drivers](Dashboard IMG/Revenue%20Risks%20%26%20Drivers.png)
+![Revenue Risks & Drivers](Dashboard_IMG/Revenue%20Risks%20%26%20Drivers.png)
 
-![Churn Profiles](Dashboard IMG/Churn%20Profiles.png)
+![Churn Profiles](Dashboard_IMG/Churn%20Profiles.png)
 ```
 
 ---
